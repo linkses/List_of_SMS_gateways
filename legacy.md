@@ -49,7 +49,16 @@
 <td>Free Registration Required - <a rel="nofollow" class="external text" href="http://www.experttexting.com/">www.ExpertTexting.com</a></td>
 <td></td>
 <td>N/A</td>
+</tr>  
+<tr>
+<td><a href="https://www.afilnet.com/" title="SMS Gateway">Afilnet</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Spain" title="Canada">Spain</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
+<tr>
 <tr>
 <td><a href="http://en.wikipedia.org/wiki/Aircel" title="Aircel">Aircel</a></td>
 <td><a href="http://en.wikipedia.org/wiki/India" title="India">India</a></td>
